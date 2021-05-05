@@ -20,10 +20,10 @@ tPort = 80
 topic = "channels/" + channelID + "/publish/" + writeAPIKey
 
 #varipass.org
-variID0="KeH4iWHr"
-variKey="LTcMYOvAvDpfM5X8"
-variID1="okUtEt4d"
-variID2="PSWPd2kz"
+variID0="xxxxxx"
+variKey="xxxxx"
+variID1="dddddd"
+variID2="asdsdhjfkjds"
 
 setText("")
 # There are 5 gas sensors
